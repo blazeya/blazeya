@@ -1,4 +1,4 @@
-### Hi there 👋
+### 大家好，我是blaze，来自山西大同，目前是一名计算机相关的学生 👋
 
 <!--
 **blazeya/blazeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
